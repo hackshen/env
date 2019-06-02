@@ -1,6 +1,6 @@
 # About Env Config
 
-## > Mac
+> ## Mac
 
-## > Centos
+> ## Centos
 
