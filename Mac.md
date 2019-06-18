@@ -97,6 +97,19 @@ nvm alias     #给不用的node版本添加别名
 nvm unalias   # 删除已定义的别名
 ```
 
+### [mycli](https://github.com/dbcli/mycli)
+> A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+
+###### install
+```bash
+brew update && brew install mycli 
+```
+
+###### use
+```bash
+mycli -u [name] -p [password]
+```
+
 
 
 
