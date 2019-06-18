@@ -1,6 +1,6 @@
 # About Env Config
 
-## Mac
+## `Mac`
 
 
 ### [Homebrew](https://brew.sh/)
@@ -105,6 +105,5 @@ nvm unalias   # 删除已定义的别名
 
 
 
-
-> ## Centos
+## `Centos`
 
