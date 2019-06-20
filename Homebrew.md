@@ -1,7 +1,6 @@
-##### brew list
-|name|describe|
+##### hackshen@Hshen~:$ brew list
+|ccat|cat的升级版|
 |---|---|
-| ccat |cat的升级版|
 |nginx|反向代理工具|
 |mycli|mysql客户端|
 |mysql|[brew install mysql](456789)|
@@ -10,3 +9,5 @@
 |sl| |
 |travis| |
 |watchman| |
+
+
