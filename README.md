@@ -8,3 +8,4 @@
 |ssh-copy-id|copy公钥到服务器免密登录|
 |ssh-add|添加秘钥到代理的工具|
 |sshd|OpenSSH 服务器 |
+|service sshd restart| CentOs 重启ssh服务|
